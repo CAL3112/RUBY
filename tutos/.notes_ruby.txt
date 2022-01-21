@@ -1,0 +1,6 @@
+Les bases :
+
+puissance **
+
+.methode? // ? retourne un booléen
+
